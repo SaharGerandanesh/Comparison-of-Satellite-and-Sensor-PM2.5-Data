@@ -1,4 +1,4 @@
-# Comparison-of-Satellite-and-Sensor-PM2.5-Data
+# Researching-Comparison-of-Satellite-and-Sensor-PM2.5-Data
 Overview
 This repository contains the code and data for a study comparing satellite-derived PM2.5 data with ground-based sensor measurements in Mainz, Germany. The study explores the accuracy, reliability, and discrepancies between these two data sources for monitoring air quality, specifically focusing on fine particulate matter (PM2.5). The findings are intended to contribute to better understanding of air pollution and its public health implications.
 
